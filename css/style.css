@@ -308,7 +308,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-top: 39px;
 }
 .header_aera .navbar-header .navbar-brand img {
-  max-width: 100%;
+  max-width: 70%;
 }
 .header_aera .navbar-collapse .navbar-nav.navbar-right li a {
   font: 700 14px/100px "Roboto", sans-serif;
@@ -2074,7 +2074,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   padding-bottom: 25px;
 }
 .footer_area .footer_row .footer_about img {
-  max-width: 100%;
+  max-width: 40%;
 }
 .footer_area .footer_row .footer_about p {
   font: 400 14px/26px "Oswald", sans-serif;
