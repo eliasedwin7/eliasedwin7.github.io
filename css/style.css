@@ -672,7 +672,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* End about_us_area */
 /*--------------------------------------------------*/
 .what_we_area {
-    background-image: url(https://media.giphy.com/media/jokM8sDhDEjsRoWeFp/giphy.gif);
+    /*background-image: url(https://media.giphy.com/media/jokM8sDhDEjsRoWeFp/giphy.gif);*/
+    background-image: url(https://media3.giphy.com/media/Xlk4JrwQE7XEs/giphy.gif);
     background-size: cover;
 }
 .what_we_area .tittle h2:after {
