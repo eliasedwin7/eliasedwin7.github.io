@@ -139,7 +139,7 @@ This files contents are outlined below.
   background-color: ##f4f7fc;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif);
+  background-image: url(/images/preloader.gif);
 }
 
 /*--------------------------------------------------*/
