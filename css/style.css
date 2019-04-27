@@ -130,16 +130,16 @@ This files contents are outlined below.
 
 /* Preloader */
 .preloader {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  z-index: 999999;
-  background-color: ##f4f7fc;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-image: url(/images/preloader.gif);
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    background-color: #ffffff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url(../images/preloader.gif);
 }
 
 /*--------------------------------------------------*/
