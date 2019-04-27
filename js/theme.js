@@ -180,8 +180,8 @@
      function preloader(){
         if ( $('.preloader').length ){ 
              $(window).load(function() {
-                $('.preloader').delay(100).fadeOut('slow');
-                $('body').delay(100).css({'overflow':'visible'});
+                $('.preloader').delay(500).fadeOut('slow');
+                $('body').delay(500).css({'overflow':'visible'});
             });
         } 
     }; 
