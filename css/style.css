@@ -136,10 +136,10 @@ This files contents are outlined below.
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #ffffff;
+  background-color: ##f4f7fc;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif);
+  background-image: url(/images/preloader.gif);
 }
 
 /*--------------------------------------------------*/
