@@ -1329,12 +1329,23 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
     position: relative;
 }
 
+.flipper img{
+
+  padding-left: 30px;
+
+}
 /* hide back of pane during swap */
 .front, .back {
     backface-visibility: hidden;
     position: absolute;
     top: 0;
     left: 0;
+}
+.back p{
+
+  text-align: center;
+  text-decoration-color: #eeffee;
+
 }
 
 /* front pane, placed above back */
