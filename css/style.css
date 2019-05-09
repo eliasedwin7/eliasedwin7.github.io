@@ -1222,7 +1222,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   content: "";
   position: absolute;
   top: 0;
-  background-color: rgba(0, 0, 0, 0.9);
+  /*background-color: rgba(0, 0, 0, 0.9);*/
+  background-color: #ffffff;
   left: 0;
   right: 0;
   bottom: 0;
@@ -1230,10 +1231,12 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   z-index: -1;
 }
 .featured_works .tittle h2 {
-  color: #fff;
+  /*color: #fff;*/
+  color: #0065ff;
 }
 .featured_works .tittle h4 {
-  color: #fefefe;
+  /*color: #fefefe;*/
+  color: #000000;
 }
 .featured_works .featured_gallery {
   padding-top: 60px;
