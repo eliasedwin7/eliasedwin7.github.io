@@ -735,8 +735,9 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 
 /*--------------------------------------------------*/
 .our_feature_area {
-  padding-bottom: 90px;
-  background: #fefefe;
+    padding-bottom: 90px;
+
+    background: #f5f5f5;
 }
 .our_feature_area .feature_row {
   padding-top: 70px;
@@ -1102,8 +1103,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*--------------------------------------------------*/
 /* Testimonial Area */
 .testimonial_area {
-  padding-bottom: 90px;
-  background: #fefefe;
+    padding-bottom: 90px;
+    background: #f5f5f5;
 }
 .testimonial_area .testimonial_carosel {
   padding-top: 60px;
@@ -1208,15 +1209,14 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /* End Our Partners Area */
 /*--------------------------------------------------*/
 .featured_works {
-  background: url("../images/protfolio_bg.jpg") no-repeat fixed;
-  background-position: center;
-  text-align: center;
-  position: relative;
-  z-index: 1;
-  padding-bottom: 100px;
-  display: block;
-  overflow: hidden;
-  padding-bottom: 100px;
+    background: url("../images/protfolio_bg.jpg") no-repeat fixed;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 100px;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 100px;
 }
 .featured_works:after {
   content: "";
@@ -1374,8 +1374,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*Brands We Represent*/
 
 .latest_blog_area {
-  padding-bottom: 70px;
-  background: #fefefe;
+    padding-bottom: 70px;
+    background: #fefefe;
 }
 .latest_blog_area .latest_blog {
   padding-top: 60px;
