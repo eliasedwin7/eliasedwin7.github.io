@@ -1320,9 +1320,25 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
         transform: rotateY(180deg);
     }
 
-.flip-container, .front, .back {
-    width: 320px;
-    height: 300px;
+.flip-container, .front {
+    width: 350px;
+    height: 250px;
+}
+.flipper, .front {
+
+  margin-left: 60px;
+ 
+}
+
+.flipper, .back {
+
+  width: 300px;
+  height: 200px;
+  margin-left: 30px;
+  margin-right: 30px;
+  align-content: center;
+  align-self: auto;
+  text-align: center;
 }
 
 /* flip speed goes here */
@@ -1335,7 +1351,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .flipper img{
 
   padding-left: 30px;
-
+  padding-right: 30px;
+  
 }
 /* hide back of pane during swap */
 .front, .back {
@@ -1360,7 +1377,8 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 
     .front img {
         width: 320px;
-        height: 300px;
+        height: 200px;
+        align-items: center;
     }
 
 /* back, initially hidden pane */
